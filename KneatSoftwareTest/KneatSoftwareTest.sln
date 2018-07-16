@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KneatSoftwareTest", "KneatSoftwareTest\KneatSoftwareTest.csproj", "{BE7200EC-DACA-48CB-9FA6-1D546E243D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarshipsCalc.Test", "StarshipsCalc.Test\StarshipsCalc.Test.csproj", "{37A63C6D-61FB-4B7D-888C-7569B2C50961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE7200EC-DACA-48CB-9FA6-1D546E243D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7200EC-DACA-48CB-9FA6-1D546E243D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7200EC-DACA-48CB-9FA6-1D546E243D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7200EC-DACA-48CB-9FA6-1D546E243D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A63C6D-61FB-4B7D-888C-7569B2C50961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A63C6D-61FB-4B7D-888C-7569B2C50961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A63C6D-61FB-4B7D-888C-7569B2C50961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A63C6D-61FB-4B7D-888C-7569B2C50961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
